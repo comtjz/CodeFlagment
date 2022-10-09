@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T08:38:25.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8zt07LSdoTLSHb_fSbPr" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T08:39:58.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wbAIpsbHJpdSLaf1aydt" version="20.3.7" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1703" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HFOxwUlrzNzKCSqIE_z9-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
-          <mxGeometry x="190" y="320" width="136.22" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="HFOxwUlrzNzKCSqIE_z9-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.file_server;" vertex="1" parent="1">
           <mxGeometry x="840" y="313.25" width="119.68" height="163.5" as="geometry" />
         </mxCell>
@@ -66,6 +63,9 @@
         </mxCell>
         <mxCell id="HFOxwUlrzNzKCSqIE_z9-22" value="Quic 连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="471.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HFOxwUlrzNzKCSqIE_z9-24" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;rounded=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="110" y="321.75" width="201.16" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
