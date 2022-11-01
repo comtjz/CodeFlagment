@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T09:20:16.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="mvQ9t7iBXQ-mqB4AE79g" type="github"><diagram id="xoDWMLeuuSV0yoF5QppY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-01T09:30:51.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IAawZJSy_OyqG6Pn8PQ8" version="20.5.1" type="github">
+  <diagram id="xoDWMLeuuSV0yoF5QppY" name="第 1 页">
+    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-1" value="P2P-SDK" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-4" value="&lt;font face=&quot;Aa花语·紫罗兰永恒&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;PoP网络模块&lt;/span&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="100" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="4zpdq_yRVL0BN-qXKDVu-4">
+          <mxGeometry x="45" y="90" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="4zpdq_yRVL0BN-qXKDVu-4">
+          <mxGeometry x="50" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" edge="1" target="4zpdq_yRVL0BN-qXKDVu-8" parent="4zpdq_yRVL0BN-qXKDVu-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-5" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" edge="1" parent="1" target="4zpdq_yRVL0BN-qXKDVu-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="230" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-7" value="&lt;font face=&quot;Aa花语·紫罗兰永恒&quot;&gt;请求解析&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="310" y="155" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-10" value="&lt;span style=&quot;font-family: Aa花语·紫罗兰永恒; font-size: 14px;&quot;&gt;PoP存储模块&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="100" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="4zpdq_yRVL0BN-qXKDVu-10">
+          <mxGeometry x="45" y="180" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-14" value="&lt;font face=&quot;Aa花语·紫罗兰永恒&quot;&gt;下载请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-15" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;exitX=1.1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4zpdq_yRVL0BN-qXKDVu-6" target="4zpdq_yRVL0BN-qXKDVu-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-16" value="&lt;font face=&quot;Aa花语·紫罗兰永恒&quot;&gt;请求文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="334" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-17" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;exitX=-0.2;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4zpdq_yRVL0BN-qXKDVu-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-18" value="&lt;font face=&quot;Aa花语·紫罗兰永恒&quot;&gt;返回文件数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="325" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-19" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;exitX=-0.2;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283" y="389.99999999999994" as="sourcePoint" />
+            <mxPoint x="190" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zpdq_yRVL0BN-qXKDVu-20" value="&lt;font face=&quot;Aa花语·紫罗兰永恒&quot;&gt;返回请求数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="155" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
